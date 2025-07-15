@@ -13,7 +13,7 @@
 حاليا اقوم بتلخيصه وحدي لانه بمثابة مرجع خاص ولكن ربما لاحقا قد اتطوق لجعله عاما للمطورين 
 
 
-## indexes of content hand couees:
+## indexes of content hand courses :
 1. [javascript](./javaScript/inroduction.md)
 2. [typescript](./TypeScript/introduction.md)
 
